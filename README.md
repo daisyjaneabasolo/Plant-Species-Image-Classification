@@ -8,7 +8,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 1. Money Plant
 
-![Money Plant](screenshots/223.png)
+![Money Plant](Plant-Species-Image-Classification/money-plant.jpg)
 
 **Common Name:** Money Plant  
 **Scientific Name:** *Pachira aquatica*  
