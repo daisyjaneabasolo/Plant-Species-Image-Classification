@@ -208,19 +208,15 @@ For each of the 20 plant species, a representative image and description are pro
 
 ## C. Model Training Details
 
-- Epochs: 100
-- Batch Size: 16
-- Learning Rate: 0.001
-- Images per class: 250
-
-### Training Settings Screenshot
-![image alt]()
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/b2c323380ef5fbd5c93aea5e551a0990118c329b/Train%20Model.png)
 
 ---
 
 ## D. Model Evaluation (Under the Hood)
 
-![image alt]()
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/b2c323380ef5fbd5c93aea5e551a0990118c329b/Under%20the%20hood.png)
+
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/e9971f82fab8df7a4c01db6ec25c2a5aa207272b/Under%20the%20hood(1).png)
 
 ---
 
