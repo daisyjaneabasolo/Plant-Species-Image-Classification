@@ -253,7 +253,6 @@ For each of the 20 plant species, a representative image and description are pro
 ### Test 10
 <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e71d124b7fc329fd58222bcc6b075c70187bd8d5/VIRGINIA%20CREEPER.jpeg" width="300">
 
-
 ---
  Reflection Questions:
 Answer the following questions based on your experience:
