@@ -183,6 +183,7 @@
 - Batch Size: 16
 - Learning Rate: 0.001
 - Images per class: 250
+  
   - I chose 50 epochs so the model could learn well from all the images, used a batch size of 16 to help it learn carefully, and set the learning rate to 0.001 to make sure it trains steadily without big mistakes.
 ---
 
