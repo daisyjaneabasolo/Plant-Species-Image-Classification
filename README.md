@@ -18,7 +18,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 2. English Ivy
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/ENGLISH%20IVY.jpg)
 
 **Common Name:** English Ivy  
 **Scientific Name:** *Hedera helix*  
@@ -28,7 +28,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 3. Sweet Potato Vine
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/SWEET%20POTATO%20VINE.jpg)
 
 **Common Name:** Sweet Potato Vine  
 **Scientific Name:** *Ipomoea batatas*  
@@ -38,7 +38,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 4. Ground Morning Glory
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/GROUND%20MORNING%20GLORY.jpg)
 
 **Common Name:** Ground Morning Glory  
 **Scientific Name:** *Ipomoea repens*  
@@ -48,7 +48,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 5. Strawberry
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/STRAWBERRY.jpg)
 
 **Common Name:** Strawberry  
 **Scientific Name:** *Fragaria × ananassa*  
@@ -58,7 +58,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 6. Creeping Jenny
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/CREEPING%20JENNY.jpg)
 
 **Common Name:** Creeping Jenny  
 **Scientific Name:** *Lysimachia nummularia*  
@@ -68,7 +68,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 7. Periwinkle
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/PERIWINKLE.jpg)
 
 **Common Name:** Periwinkle  
 **Scientific Name:** *Vinca minor*  
@@ -78,7 +78,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 8. Baby's Tears
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/BABY'S%20TEARS.jpg)
 
 **Common Name:** Baby's Tears  
 **Scientific Name:** *Soleirolia soleirolii*  
@@ -88,7 +88,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 9. Virginia Creeper
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/VIRGINIA%20CREEPER.jpg)
 
 **Common Name:** Virginia Creeper  
 **Scientific Name:** *Parthenocissus quinquefolia*  
@@ -98,7 +98,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 10. Asiatic Jasmine
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/ASIATIC%20JASMINE.jpg)
 
 **Common Name:** Asiatic Jasmine  
 **Scientific Name:** *Trachelospermum asiaticum*  
@@ -108,7 +108,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 11. Dutchman’s Pipe
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/DUTCHMAN'S%20PIPE.jpg)
 
 **Common Name:** Dutchman’s Pipe  
 **Scientific Name:** *Aristolochia macrophylla*  
@@ -118,7 +118,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 12. Trailing Lantana
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20LANTANA.jpg)
 
 **Common Name:** Trailing Lantana  
 **Scientific Name:** *Lantana montevidensis*  
@@ -128,7 +128,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 13. Hoya
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/HOYA.jpg)
 
 **Common Name:** Hoya  
 **Scientific Name:** *Hoya carnosa*  
@@ -138,7 +138,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 14. Mondo Grass
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/MONDO%20GRASS.jpg)
 
 **Common Name:** Mondo Grass  
 **Scientific Name:** *Ophiopogon japonicus*  
@@ -148,7 +148,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 15. Golden Pothos
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/GOLDEN%20POTHOS.jpg)
 
 **Common Name:** Golden Pothos  
 **Scientific Name:** *Epipremnum aureum*  
@@ -158,7 +158,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 16. Trailing Verbena
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20VERBENA.jpg)
 
 **Common Name:** Trailing Verbena  
 **Scientific Name:** *Glandularia pulchella*  
@@ -168,7 +168,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 17. Purple Heart
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/PURPLE%20HEART.jpg)
 
 **Common Name:** Purple Heart  
 **Scientific Name:** *Tradescantia pallida*  
@@ -178,7 +178,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 18. Partridge Berry
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/PURPLE%20HEART.jpg)
 
 **Common Name:** Partridge Berry  
 **Scientific Name:** *Mitchella repens*  
@@ -188,7 +188,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 19. Rock Cress
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/ROCK%20CRESS.jpg)
 
 **Common Name:** Rock Cress  
 **Scientific Name:** *Aubrieta deltoidea*  
@@ -198,7 +198,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 20. Trailing Rosemary
 
-![image alt]
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/TRAILING%20ROSEMARY.jpg)
 
 **Common Name:** Trailing Rosemary  
 **Scientific Name:** *Rosmarinus officinalis*  
