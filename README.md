@@ -1,9 +1,9 @@
 # Plant-Species-Image-Classification
-
+## A. Project Overview
+- Brief description of the project
+- Purpose of the image classification model
 ## B. Plant Species Section
-
 For each of the 20 plant species, a representative image and description are provided.
-
 ### 1. Money Plant
 
 ![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/2e1815c821f4e14f53f66a09c591779693044710/money-plant.jpg)
