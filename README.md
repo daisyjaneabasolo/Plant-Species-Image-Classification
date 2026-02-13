@@ -204,8 +204,29 @@ For each of the 20 plant species, a representative image and description are pro
 **Scientific Name:** *Rosmarinus officinalis*  
 **Description:** Aromatic trailing herb with small blue flowers, used in gardens and cooking.
 
+---
 
+## C. Model Training Details
 
+- Epochs: 100
+- Batch Size: 16
+- Learning Rate: 0.001
+- Images per class: 250
+
+### Training Settings Screenshot
+![image alt]()
+
+---
+
+## D. Model Evaluation (Under the Hood)
+
+![image alt]()
+
+---
+
+## E. Model Testing (Preview Section)
+
+![image alt]()
 
 
  Reflection Questions:
