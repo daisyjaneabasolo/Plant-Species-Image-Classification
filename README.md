@@ -1,9 +1,5 @@
 # Plant-Species-Image-Classification
 
-## A. Project Overview
-####● Brief description of the project 
-####● Purpose of the image classification model
-
 ## B. Plant Species Section
 
 For each of the 20 plant species, a representative image and description are provided.
@@ -232,9 +228,27 @@ For each of the 20 plant species, a representative image and description are pro
 ## E. Model Testing (Preview Section)
 
 ### Test 1
-![image alt](screenshots/testing/test1.png)
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/af090575d0d354177f2fd9c27678009a266a8d59/BABY_S%20TEARS.jpeg)
+### Test 2
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/7eac9161b4f369dd25d14d8dcc4c9fb6afa973c9/ENGLISH%20IVY.png)
+### Test 3
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/6ee0b924ec7c9a1e818704849b441412d83cd5e3/GROUND%20MORNING%20GLORY.png)
+### Test 4
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/e41723a6a0036db1b9d516314b5a423bf7d29b6a/MONEY%20PLANT.png)
+### Test 5
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/5ac2a0072ee568df7a0919814e15c70c24753d9b/PURPLE%20HEART.jpeg)
+### Test 6
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/fadd0a729346e41c8506e0f1dec1b95822b8b150/ROCK%20CRESS.jpeg)
+### Test 7
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/9ded2b5ff4e28863502827f5f6889dd87c4d53f8/SWEET%20POTATO%20VINE.png)
+### Test 8
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/54dede4e175a3def83962c7edf6126c0c89ced5f/TRAILING%20LANTANA.jpeg)
+### Test 9
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/8abca0383615695cd120a86ee4742d9aee4c9abd/TRAILING%20VERBENA.jpeg)
+### Test 10
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/e71d124b7fc329fd58222bcc6b075c70187bd8d5/VIRGINIA%20CREEPER.jpeg)
 
-
+---
  Reflection Questions:
 Answer the following questions based on your experience:
 1. How did the number of images per class affect your model’s accuracy?
