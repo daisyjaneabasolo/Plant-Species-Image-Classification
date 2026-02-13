@@ -1,5 +1,9 @@
 # Plant-Species-Image-Classification
 
+## A. Project Overview
+● Brief description of the project
+● Purpose of the image classification model
+
 ## B. Plant Species Section
 
 For each of the 20 plant species, a representative image and description are provided.
@@ -208,6 +212,11 @@ For each of the 20 plant species, a representative image and description are pro
 
 ## C. Model Training Details
 
+- Epochs: 50
+- Batch Size: 16
+- Learning Rate: 0.001
+- Images per class: 250
+
 ![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/b2c323380ef5fbd5c93aea5e551a0990118c329b/Train%20Model.png)
 
 ---
@@ -222,7 +231,8 @@ For each of the 20 plant species, a representative image and description are pro
 
 ## E. Model Testing (Preview Section)
 
-![image alt]()
+### Test 1
+![image alt](screenshots/testing/test1.png)
 
 
  Reflection Questions:
