@@ -217,9 +217,9 @@ For each of the 20 plant species, a representative image and description are pro
 
 ## D. Model Evaluation (Under the Hood)
 
-![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/b2c323380ef5fbd5c93aea5e551a0990118c329b/Under%20the%20hood.png)
+<img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/b2c323380ef5fbd5c93aea5e551a0990118c329b/Under%20the%20hood.png" width="500">
 
-![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/e9971f82fab8df7a4c01db6ec25c2a5aa207272b/Under%20the%20hood(1).png)
+<img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/e9971f82fab8df7a4c01db6ec25c2a5aa207272b/Under%20the%20hood(1).png" width="500">
 
 ---
 
