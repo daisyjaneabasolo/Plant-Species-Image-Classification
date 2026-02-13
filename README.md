@@ -266,9 +266,12 @@ Answer the following questions based on your experience:
    - Learning Rate: A small learning rate (0.001) made learning stable. Too high could make it unstable; too low would make training very slow.
      
 4. What challenges did you encounter during dataset collection and labeling?
-  - Avoiding duplicates and watermarked images.
-  - Ensuring even distribution of images across 20 classes.
-  - Labeling images correctly, especially for plants with similar appearances.
+   - Avoiding duplicates and watermarked images.
+   - Ensuring even distribution of images across 20 classes.
+   - Labeling images correctly, especially for plants with similar appearances.
     
 5. If you were to improve your model, what specific changes would you make and why?
    - would organize the plants that look alike into better classes and add pictures from different angles, seasons, and lighting so my model can recognize them more accurately.
+  
+
+  
