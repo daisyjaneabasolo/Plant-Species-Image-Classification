@@ -178,7 +178,7 @@ For each of the 20 plant species, a representative image and description are pro
 
 ### 18. Partridge Berry
 
-![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/edf920832f0b8c312eceb6ccb4d9bba252912229/PURPLE%20HEART.jpg)
+![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/dfd20e07c8da92c9918d8aea91173c90241e49b5/PARTRIDGE%20BERRY.jpg)
 
 **Common Name:** Partridge Berry  
 **Scientific Name:** *Mitchella repens*  
