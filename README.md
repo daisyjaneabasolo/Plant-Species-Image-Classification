@@ -215,9 +215,16 @@ For each of the 20 plant species, a representative image and description are pro
 
 ## D. Model Evaluation (Under the Hood)
 
-<img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/b2c323380ef5fbd5c93aea5e551a0990118c329b/Under%20the%20hood.png" width="300">
-
-<img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/e9971f82fab8df7a4c01db6ec25c2a5aa207272b/Under%20the%20hood(1).png" width="300">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/b2c323380ef5fbd5c93aea5e551a0990118c329b/Under%20the%20hood.png" width="200">
+    </td>
+    <td align="center">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e9971f82fab8df7a4c01db6ec25c2a5aa207272b/Under%20the%20hood(1).png" width="200">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -227,58 +234,58 @@ For each of the 20 plant species, a representative image and description are pro
   <tr>
     <td align="center">
       <b>Test 1</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/af090575d0d354177f2fd9c27678009a266a8d59/BABY_S%20TEARS.jpeg" width="300">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/af090575d0d354177f2fd9c27678009a266a8d59/BABY_S%20TEARS.jpeg" width="200">
     </td>
     <td align="center">
       <b>Test 2</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/7eac9161b4f369dd25d14d8dcc4c9fb6afa973c9/ENGLISH%20IVY.png" width="300">
-    </td>
-    <td align="center">
-      <b>Test 3</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/6ee0b924ec7c9a1e818704849b441412d83cd5e3/GROUND%20MORNING%20GLORY.png" width="300">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/7eac9161b4f369dd25d14d8dcc4c9fb6afa973c9/ENGLISH%20IVY.png" width="200">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Test 4</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e41723a6a0036db1b9d516314b5a423bf7d29b6a/MONEY%20PLANT.png" width="300">
+      <b>Test 3</b><br>
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/6ee0b924ec7c9a1e818704849b441412d83cd5e3/GROUND%20MORNING%20GLORY.png" width="200">
     </td>
     <td align="center">
+      <b>Test 4</b><br>
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e41723a6a0036db1b9d516314b5a423bf7d29b6a/MONEY%20PLANT.png" width="200">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
       <b>Test 5</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/5ac2a0072ee568df7a0919814e15c70c24753d9b/PURPLE%20HEART.jpeg" width="300">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/5ac2a0072ee568df7a0919814e15c70c24753d9b/PURPLE%20HEART.jpeg" width="200">
     </td>
     <td align="center">
       <b>Test 6</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/fadd0a729346e41c8506e0f1dec1b95822b8b150/ROCK%20CRESS.jpeg" width="300">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/fadd0a729346e41c8506e0f1dec1b95822b8b150/ROCK%20CRESS.jpeg" width="200">
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <b>Test 7</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/9ded2b5ff4e28863502827f5f6889dd87c4d53f8/SWEET%20POTATO%20VINE.png" width="300">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/9ded2b5ff4e28863502827f5f6889dd87c4d53f8/SWEET%20POTATO%20VINE.png" width="200">
     </td>
     <td align="center">
       <b>Test 8</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/54dede4e175a3def83962c7edf6126c0c89ced5f/TRAILING%20LANTANA.jpeg" width="300">
-    </td>
-    <td align="center">
-      <b>Test 9</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/8abca0383615695cd120a86ee4742d9aee4c9abd/TRAILING%20VERBENA.jpeg" width="300">
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/54dede4e175a3def83962c7edf6126c0c89ced5f/TRAILING%20LANTANA.jpeg" width="200">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Test 10</b><br>
-      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e71d124b7fc329fd58222bcc6b075c70187bd8d5/VIRGINIA%20CREEPER.jpeg" width="300">
+      <b>Test 9</b><br>
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/8abca0383615695cd120a86ee4742d9aee4c9abd/TRAILING%20VERBENA.jpeg" width="200">
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <b>Test 10</b><br>
+      <img src="https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/raw/e71d124b7fc329fd58222bcc6b075c70187bd8d5/VIRGINIA%20CREEPER.jpeg" width="200">
+    </td>
   </tr>
 </table>
-
 
 ---
  Reflection Questions:
