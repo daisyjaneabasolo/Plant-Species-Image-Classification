@@ -3,21 +3,33 @@
 ## B. Plant Species Section
 
 For each of the 20 plant species, a representative image and description are provided.
+
 ---
+
 ### 1. Money Plant
+
 ![image alt](https://github.com/daisyjaneabasolo/Plant-Species-Image-Classification/blob/2e1815c821f4e14f53f66a09c591779693044710/money-plant.jpg)
+
 **Common Name:** Money Plant  
 **Scientific Name:** *Pachira aquatica*  
 **Description:** A popular ornamental plant believed to bring good luck and prosperity.
+
 ---
+
 ### 2. English Ivy
+
 ![image alt]
+
 **Common Name:** English Ivy  
 **Scientific Name:** *Hedera helix*  
 **Description:** A climbing vine used as ground cover or for decorative purposes.
+
 ---
+
 ### 3. Sweet Potato Vine
+
 ![image alt]
+
 **Common Name:** Sweet Potato Vine  
 **Scientific Name:** *Ipomoea batatas*  
 **Description:** Ornamental vine with vibrant foliage, often used in gardens and hanging baskets.
