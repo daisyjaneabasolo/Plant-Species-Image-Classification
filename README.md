@@ -3,8 +3,6 @@
 - Brief description of the project
 - Purpose of the image classification model
 ## B. Plant Species Section
-For each of the 20 plant species, a representative image and description are provided.
-
 <table>
   <tr>
     <td align="center">
