@@ -185,7 +185,7 @@ For each of the 20 plant species, a representative image and description are pro
 - Batch Size: 16
 - Learning Rate: 0.001
 - Images per class: 250
-
+I chose 50 epochs so the model could learn well from all the images, used a batch size of 16 to help it learn carefully, and set the learning rate to 0.001 to make sure it trains steadily without big mistakes.
 ---
 
 ## D. Model Evaluation (Under the Hood)
@@ -257,11 +257,20 @@ For each of the 20 plant species, a representative image and description are pro
  Reflection Questions:
 Answer the following questions based on your experience:
 1. How did the number of images per class affect your model’s accuracy?
+   - The more images I had for each plant, the better the model could learn. With 250 images per plant, the model was more accurate. If a class had fewer images, the accuracy went down because the model didn’t see enough examples.
 
 2. Which plant species were most commonly misclassified and why?
-
+   - Plants that look similar, like Sweet Potato Vine and Ground Morning Glory, were sometimes confused. This happened because their leaves or colors are very similar.
+     
 3. How did changing the epochs, batch size, or learning rate affect the training results?
-
+   - Epochs: More epochs helped the model learn better, but too many can make it memorize instead of generalize.
+   - Batch Size: Smaller batch sizes made the model learn more carefully but slower.
+   - Learning Rate: A small learning rate (0.001) made learning stable. Too high could make it unstable; too low would make training very slow.
+     
 4. What challenges did you encounter during dataset collection and labeling?
-
+  - Avoiding duplicates and watermarked images.
+  - Ensuring even distribution of images across 20 classes.
+  - Labeling images correctly, especially for plants with similar appearances.
+    
 5. If you were to improve your model, what specific changes would you make and why?
+   - would organize the plants that look alike into better classes and add pictures from different angles, seasons, and lighting so my model can recognize them more accurately.
